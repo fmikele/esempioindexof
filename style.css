@@ -2,12 +2,25 @@ body{
   background-color: black;
 }
 
-p {
+/* p {
   color: white;
-}
+} */
 
 h1, h2 {
   font-family: Lato;
   color: red;
  
+}
+
+.classapp {
+  color: orange;
+}
+
+
+.classapp2 {
+  color: yellowgreen;
+}
+
+#idclass{
+  color: violet
 }
